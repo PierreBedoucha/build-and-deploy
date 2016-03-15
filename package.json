@@ -1,7 +1,7 @@
 {
   "name": "build-and-deploy",
   "version": "1.0.0",
-  "scripts": {
+  "scriptsxxxx”: {
     "postinstall": "bower install && grunt build",
     "test": "grunt test"
   },
